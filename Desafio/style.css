@@ -1,0 +1,15 @@
+body {
+    margin-left: 10px;
+}
+
+h1 {
+    background: blue;
+    color: white;
+    width: 470px;
+    text-align: center;
+}
+
+#mostrar {
+    background: blue;
+    color: white;
+}
